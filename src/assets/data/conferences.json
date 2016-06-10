@@ -1,454 +1,719 @@
-[
-  { "id": 1,
+[{
+    "id": 1,
     "name": "ACC (Atlantic Coast Conference)",
-    "schools": [
-      { "id": 1,
-        "name": "Boston College",
-        "stadium": [
-          { "imageFile": "bostoncollege1.jpg", "name": "Alumni Stadium", "nickname": "N/A", "location": "Chestnut Hill, Massachusetts", "capacity": "44,500" }
-        ]
-      },
-      { "id": 2,
-        "name": "Clemson",
-        "stadium": [
-          { "imageFile": "clemson1.jpg", "name": "Memorial Stadium", "nickname": "Death Valley", "location": "Clemson, South Carolina", "capacity": "81,500" }
-        ]
-      },
-      { "id": 3,
-        "name": "Duke",
-        "stadium": [
-          { "imageFile": "duke1.jpg", "name": "Wallace Wade Stadium", "nickname": "N/A", "location": "Durham, North Carolina", "capacity": "40,000" }
-        ]
-      },
-      { "id": 4,
-        "name": "Florida State",
-        "stadium": [
-          { "imageFile": "floridastate1.jpg", "name": "Doak Campbell Stadium", "nickname": "N/A", "location": "Tallahassee, Florida", "capacity": "82,300" }
-        ]
-      },
-      { "id": 5,
-        "name": "Georgia Tech",
-        "stadium": [
-          { "imageFile": "georgiatech1.jpg", "name": "Bobby Dodd Stadium", "nickname": "N/A", "location": "Atlanta, Georgia", "capacity": "55,000" }
-        ]
-      },
-      { "id": 6,
-        "name": "Louisville",
-        "stadium": [
-          { "imageFile": "louisville1.jpg", "name": "Papa John's Cardinal Stadium", "nickname": "N/A", "location": "Louisville", "capacity": "55,000" }
-        ]
-      },
-      { "id": 7,
-        "name": "Miami (FL)",
-        "stadium": [
-          { "imageFile": "miami1.png", "name": "New Miami Stadium", "nickname": "N/A", "location": "Miami Gardens, FL;", "capacity": "76,100" }
-        ]
-      },
-      { "id": 8,
-        "name": "North Carolina",
-        "stadium": [
-          { "imageFile": "northcarolina1.jpg", "name": "Kenan Memorial Stadium", "nickname": "N/A", "location": "Chapel Hill, North Carolina", "capacity": "63,980" }
-        ]
-      },
-      { "id": 9,
-        "name": "North Carolina State",
-        "stadium": [
-          { "imageFile": "ncstate1.jpg", "name": "Carter-Finley Stadium", "nickname": "N/A", "location": "Raleigh, North Carolina", "capacity": "57,583" }
-        ]
-      },
-      { "id": 10,
-        "name": "Pittsburgh",
-        "stadium": [
-          { "imageFile": "pittsburgh1.jpg", "name": "Heinz Field", "nickname": "N/A", "location": "Pittsburgh, Pennsylvania", "capacity": "65,050" }
-        ]
-      },
-      { "id": 11,
-        "name": "Syracuse",
-        "stadium": [
-          { "imageFile": "syracuse1.jpg", "name": "Carrier Dome", "nickname": "N/A", "location": "Syracuse, New York", "capacity": "49,250" }
-        ]
-      },
-      { "id": 12,
-        "name": "Virginia",
-        "stadium": [
-          { "imageFile": "virginia1.jpg", "name": "Scott Stadium", "nickname": "N/A", "location": "Charlottesville, Virginia", "capacity": "61,500" }
-        ]
-      },
-        { "id": 13,
-        "name": "Virginia Tech",
-        "stadium": [
-          { "imageFile": "virginiatech1.jpg", "name": "Lane Stadium", "nickname": "N/A", "location": "Blacksburg, Virginia", "capacity": "66,233" }
-        ]
-      },
-      { "id": 14,
-        "name": "Wake Forest",
-        "stadium": [
-          { "imageFile": "wakeforest1.jpg", "name": "BB&T Field", "nickname": "N/A", "location": "Winston-Salem, North Carolina", "capacity": "31,500" }
-        ]
-      },
-    ]
+    "schools": [{
+      "id": 1,
+      "name": "Boston College",
+      "stadium": [{
+        "imageFile": "bostoncollege1.jpg",
+        "name": "Alumni Stadium",
+        "nickname": "N/A",
+        "location": "Chestnut Hill, Massachusetts",
+        "capacity": "44,500"
+      }]
+    }, {
+      "id": 2,
+      "name": "Clemson",
+      "stadium": [{
+        "imageFile": "clemson1.jpg",
+        "name": "Memorial Stadium",
+        "nickname": "Death Valley",
+        "location": "Clemson, South Carolina",
+        "capacity": "81,500"
+      }]
+    }, {
+      "id": 3,
+      "name": "Duke",
+      "stadium": [{
+        "imageFile": "duke1.jpg",
+        "name": "Wallace Wade Stadium",
+        "nickname": "N/A",
+        "location": "Durham, North Carolina",
+        "capacity": "40,000"
+      }]
+    }, {
+      "id": 4,
+      "name": "Florida State",
+      "stadium": [{
+        "imageFile": "floridastate1.jpg",
+        "name": "Doak Campbell Stadium",
+        "nickname": "N/A",
+        "location": "Tallahassee, Florida",
+        "capacity": "82,300"
+      }]
+    }, {
+      "id": 5,
+      "name": "Georgia Tech",
+      "stadium": [{
+        "imageFile": "georgiatech1.jpg",
+        "name": "Bobby Dodd Stadium",
+        "nickname": "N/A",
+        "location": "Atlanta, Georgia",
+        "capacity": "55,000"
+      }]
+    }, {
+      "id": 6,
+      "name": "Louisville",
+      "stadium": [{
+        "imageFile": "louisville1.jpg",
+        "name": "Papa John's Cardinal Stadium",
+        "nickname": "N/A",
+        "location": "Louisville",
+        "capacity": "55,000"
+      }]
+    }, {
+      "id": 7,
+      "name": "Miami (FL)",
+      "stadium": [{
+        "imageFile": "miami1.png",
+        "name": "New Miami Stadium",
+        "nickname": "N/A",
+        "location": "Miami Gardens, FL;",
+        "capacity": "76,100"
+      }]
+    }, {
+      "id": 8,
+      "name": "North Carolina",
+      "stadium": [{
+        "imageFile": "northcarolina1.jpg",
+        "name": "Kenan Memorial Stadium",
+        "nickname": "N/A",
+        "location": "Chapel Hill, North Carolina",
+        "capacity": "63,980"
+      }]
+    }, {
+      "id": 9,
+      "name": "North Carolina State",
+      "stadium": [{
+        "imageFile": "ncstate1.jpg",
+        "name": "Carter-Finley Stadium",
+        "nickname": "N/A",
+        "location": "Raleigh, North Carolina",
+        "capacity": "57,583"
+      }]
+    }, {
+      "id": 10,
+      "name": "Pittsburgh",
+      "stadium": [{
+        "imageFile": "pittsburgh1.jpg",
+        "name": "Heinz Field",
+        "nickname": "N/A",
+        "location": "Pittsburgh, Pennsylvania",
+        "capacity": "65,050"
+      }]
+    }, {
+      "id": 11,
+      "name": "Syracuse",
+      "stadium": [{
+        "imageFile": "syracuse1.jpg",
+        "name": "Carrier Dome",
+        "nickname": "N/A",
+        "location": "Syracuse, New York",
+        "capacity": "49,250"
+      }]
+    }, {
+      "id": 12,
+      "name": "Virginia",
+      "stadium": [{
+        "imageFile": "virginia1.jpg",
+        "name": "Scott Stadium",
+        "nickname": "N/A",
+        "location": "Charlottesville, Virginia",
+        "capacity": "61,500"
+      }]
+    }, {
+      "id": 13,
+      "name": "Virginia Tech",
+      "stadium": [{
+        "imageFile": "virginiatech1.jpg",
+        "name": "Lane Stadium",
+        "nickname": "N/A",
+        "location": "Blacksburg, Virginia",
+        "capacity": "66,233"
+      }]
+    }, {
+      "id": 14,
+      "name": "Wake Forest",
+      "stadium": [{
+        "imageFile": "wakeforest1.jpg",
+        "name": "BB&T Field",
+        "nickname": "N/A",
+        "location": "Winston-Salem, North Carolina",
+        "capacity": "31,500"
+      }]
+    }]
   },
 
 
 
 
-  { "id": 2,
+  {
+    "id": 2,
     "name": "Big 12 (Big 12 Conference)",
-    "schools": [
-      { "id": 1,
-        "name": "Baylor",
-        "stadium": [
-          { "imageFile": "baylor1.jpg", "name": "McLane Stadium", "nickname": "N/A", "location": "Waco, Texas", "capacity": "45,140" },
-        ]
-      },
-      { "id": 2,
-        "name": "Iowa State",
-        "stadium": [
-          { "imageFile": "iowastate1.jpg", "name": "Jack Trice Stadium", "nickname": "N/A", "location": "Ames, Iowa", "capacity": "61,500" }
-        ]
-      },
-      { "id": 3,
-        "name": "Kansas",
-        "stadium": [
-          { "imageFile": "kansas1.jpg", "name": "Memorial Stadium", "nickname": "N/A", "location": "Lawrence, Kansas", "capacity": "50,071" }
-        ]
-      },
-      { "id": 4,
-        "name": "Kansas State",
-        "stadium": [
-          { "imageFile": "kansasstate1.jpg", "name": "Bill Snyder Family Football Stadium", "nickname": "N/A", "location": "Manhattan, Kansas", "capacity": "53,000" }
-        ]
-      },
-      { "id": 5,
-        "name": "Oklahoma",
-        "stadium": [
-          { "imageFile": "oklahoma1.jpg", "name": "Gaylord Family Oklahoma Memorial Stadium", "nickname": "N/A", "location": "Norman, Oklahoma", "capacity": "82,112" }
-        ]
-      },
-      { "id": 6,
-        "name": "Oklahoma State",
-        "stadium": [
-          { "imageFile": "oklahomastate1.jpg", "name": "Boone Pickens Stadium", "nickname": "N/A", "location": "Stillwater, Oklahoma", "capacity": "60,000" }
-        ]
-      },
-      { "id": 7,
-        "name": "TCU",
-        "stadium": [
-          { "imageFile": "tcu1.jpg", "name": "Amon G. Carter Stadium", "nickname": "N/A", "location": "Forth Worth, Texas", "capacity": "50,000" }
-        ]
-      },
-      { "id": 8,
-        "name": "Texas",
-        "stadium": [
-          { "imageFile": "texas1.jpg", "name": "Darrell K. Royal-Texas Memorial Stadium", "nickname": "N/A", "location": "Austin, Texas", "capacity": "100,119" }
-        ]
-      },
-      { "id": 9,
-        "name": "Texas Tech",
-        "stadium": [
-          { "imageFile": "texastech1.jpg", "name": "Jones AT&T Stadium", "nickname": "N/A", "location": "Lubbock, Texas", "capacity": "60,454" }
-        ]
-      },
-      { "id": 10,
-        "name": "West Virginia",
-        "stadium": [
-          { "imageFile": "westvirginia1.jpg", "name": "Milan Puskar Stadium", "nickname": "N/A", "location": "Morgantown, West Virginia", "capacity": "60,540" }
-        ]
-      },
-    ]
+    "schools": [{
+      "id": 1,
+      "name": "Baylor",
+      "stadium": [{
+        "imageFile": "baylor1.jpg",
+        "name": "McLane Stadium",
+        "nickname": "N/A",
+        "location": "Waco, Texas",
+        "capacity": "45,140"
+      }]
+    }, {
+      "id": 2,
+      "name": "Iowa State",
+      "stadium": [{
+        "imageFile": "iowastate1.jpg",
+        "name": "Jack Trice Stadium",
+        "nickname": "N/A",
+        "location": "Ames, Iowa",
+        "capacity": "61,500"
+      }]
+    }, {
+      "id": 3,
+      "name": "Kansas",
+      "stadium": [{
+        "imageFile": "kansas1.jpg",
+        "name": "Memorial Stadium",
+        "nickname": "N/A",
+        "location": "Lawrence, Kansas",
+        "capacity": "50,071"
+      }]
+    }, {
+      "id": 4,
+      "name": "Kansas State",
+      "stadium": [{
+        "imageFile": "kansasstate1.jpg",
+        "name": "Bill Snyder Family Football Stadium",
+        "nickname": "N/A",
+        "location": "Manhattan, Kansas",
+        "capacity": "53,000"
+      }]
+    }, {
+      "id": 5,
+      "name": "Oklahoma",
+      "stadium": [{
+        "imageFile": "oklahoma1.jpg",
+        "name": "Gaylord Family Oklahoma Memorial Stadium",
+        "nickname": "N/A",
+        "location": "Norman, Oklahoma",
+        "capacity": "82,112"
+      }]
+    }, {
+      "id": 6,
+      "name": "Oklahoma State",
+      "stadium": [{
+        "imageFile": "oklahomastate1.jpg",
+        "name": "Boone Pickens Stadium",
+        "nickname": "N/A",
+        "location": "Stillwater, Oklahoma",
+        "capacity": "60,000"
+      }]
+    }, {
+      "id": 7,
+      "name": "TCU",
+      "stadium": [{
+        "imageFile": "tcu1.jpg",
+        "name": "Amon G. Carter Stadium",
+        "nickname": "N/A",
+        "location": "Forth Worth, Texas",
+        "capacity": "50,000"
+      }]
+    }, {
+      "id": 8,
+      "name": "Texas",
+      "stadium": [{
+        "imageFile": "texas1.jpg",
+        "name": "Darrell K. Royal-Texas Memorial Stadium",
+        "nickname": "N/A",
+        "location": "Austin, Texas",
+        "capacity": "100,119"
+      }]
+    }, {
+      "id": 9,
+      "name": "Texas Tech",
+      "stadium": [{
+        "imageFile": "texastech1.jpg",
+        "name": "Jones AT&T Stadium",
+        "nickname": "N/A",
+        "location": "Lubbock, Texas",
+        "capacity": "60,454"
+      }]
+    }, {
+      "id": 10,
+      "name": "West Virginia",
+      "stadium": [{
+        "imageFile": "westvirginia1.jpg",
+        "name": "Milan Puskar Stadium",
+        "nickname": "N/A",
+        "location": "Morgantown, West Virginia",
+        "capacity": "60,540"
+      }]
+    }]
   },
 
 
 
 
 
-  { "id": 3,
+  {
+    "id": 3,
     "name": "Big Ten (Big Ten Conference)",
-    "schools": [
-      { "id": 1,
-        "name": "Illinois",
-        "stadium": [
-          { "imageFile": "illinois1.jpg", "name": "Memorial Stadium", "nickname": "N/A", "location": "Champagne, Illinois", "capacity": "60,670" },
-        ]
-      },
-      { "id": 2,
-        "name": "Indiana",
-        "stadium": [
-          { "imageFile": "indiana1.jpg", "name": "Memorial Stadium", "nickname": "N/A", "location": "Bloomington, IN", "capacity": "52,929" }
-        ]
-      },
-      { "id": 3,
-        "name": "Iowa",
-        "stadium": [
-          { "imageFile": "iowa1.jpg", "name": "Kinnick Stadium", "nickname": "N/A", "location": "Iowa City, Iowa", "capacity": "70,585" }
-        ]
-      },
-      { "id": 4,
-        "name": "Maryland",
-        "stadium": [
-          { "imageFile": "maryland1.png", "name": "Byrd Stadium", "nickname": "N/A", "location": "College Park, Maryland", "capacity": "51,802" }
-        ]
-      },
-      { "id": 5,
-        "name": "Michigan",
-        "stadium": [
-          { "imageFile": "michigan1.jpg", "name": "Michigan Stadium", "nickname": "The Big House", "location": "Ann Arbor, Michigan", "capacity": "107,601" }
-        ]
-      },
-      { "id": 6,
-        "name": "Michigan State",
-        "stadium": [
-          { "imageFile": "michiganstate1.jpg", "name": "Spartan Stadium", "nickname": "N/A", "location": "East Lansing, Michigan", "capacity": "75,005" }
-        ]
-      },
-      { "id": 7,
-        "name": "Minnesota",
-        "stadium": [
-          { "imageFile": "minnesota1.jpg", "name": "TCF Bank Stadium", "nickname": "N/A", "location": "Minneapolis, Minnesota", "capacity": "52,525" }
-        ]
-      },
-      { "id": 8,
-        "name": "Nebraska",
-        "stadium": [
-          { "imageFile": "nebraska1.jpg", "name": "Memorial Stadium", "nickname": "N/A", "location": "Lincoln, Nebraska", "capacity": "87,000" }
-        ]
-      },
-      { "id": 9,
-        "name": "Northwestern",
-        "stadium": [
-          { "imageFile": "northwestern1.jpg", "name": "Ryan Field", "nickname": "N/A", "location": "Evanston, Illinois", "capacity": "49,256" }
-        ]
-      },
-      { "id": 10,
-        "name": "Ohio State",
-        "stadium": [
-          { "imageFile": "ohiostate1.jpg", "name": "Ohio Stadium", "nickname": "N/A", "location": "Columbus, Ohio", "capacity": "104,944" }
-        ]
-      },
-      { "id": 11,
-        "name": "Penn State",
-        "stadium": [
-          { "imageFile": "pennstate1.jpg", "name": "Beaver Stadium", "nickname": "N/A", "location": "University Park, Pennsylvania", "capacity": "106,572" }
-        ]
-      },
-      { "id": 12,
-        "name": "Purdue",
-        "stadium": [
-          { "imageFile": "purdue1.jpg", "name": "Ross-Ade Stadium", "nickname": "N/A", "location": "West Lafayette, Indiana", "capacity": "57,236" }
-        ]
-      },
-      { "id": 13,
-        "name": "Rutgers",
-        "stadium": [
-          { "imageFile": "rutgers1.jpg", "name": "High Point Solutions Stadium", "nickname": "N/A", "location": "Piscataway, New Jersey", "capacity": "52,454" }
-        ]
-      },
-      { "id": 14,
-        "name": "Wisconsin",
-        "stadium": [
-          { "imageFile": "wisconsin1.jpg", "name": "Camp Randall Stadium", "nickname": "N/A", "location": "Madison, Wisconsin", "capacity": "80,321" }
-        ]
-      },
-    ]
+    "schools": [{
+      "id": 1,
+      "name": "Illinois",
+      "stadium": [{
+        "imageFile": "illinois1.jpg",
+        "name": "Memorial Stadium",
+        "nickname": "N/A",
+        "location": "Champagne, Illinois",
+        "capacity": "60,670"
+      }]
+    }, {
+      "id": 2,
+      "name": "Indiana",
+      "stadium": [{
+        "imageFile": "indiana1.jpg",
+        "name": "Memorial Stadium",
+        "nickname": "N/A",
+        "location": "Bloomington, IN",
+        "capacity": "52,929"
+      }]
+    }, {
+      "id": 3,
+      "name": "Iowa",
+      "stadium": [{
+        "imageFile": "iowa1.jpg",
+        "name": "Kinnick Stadium",
+        "nickname": "N/A",
+        "location": "Iowa City, Iowa",
+        "capacity": "70,585"
+      }]
+    }, {
+      "id": 4,
+      "name": "Maryland",
+      "stadium": [{
+        "imageFile": "maryland1.png",
+        "name": "Byrd Stadium",
+        "nickname": "N/A",
+        "location": "College Park, Maryland",
+        "capacity": "51,802"
+      }]
+    }, {
+      "id": 5,
+      "name": "Michigan",
+      "stadium": [{
+        "imageFile": "michigan1.jpg",
+        "name": "Michigan Stadium",
+        "nickname": "The Big House",
+        "location": "Ann Arbor, Michigan",
+        "capacity": "107,601"
+      }]
+    }, {
+      "id": 6,
+      "name": "Michigan State",
+      "stadium": [{
+        "imageFile": "michiganstate1.jpg",
+        "name": "Spartan Stadium",
+        "nickname": "N/A",
+        "location": "East Lansing, Michigan",
+        "capacity": "75,005"
+      }]
+    }, {
+      "id": 7,
+      "name": "Minnesota",
+      "stadium": [{
+        "imageFile": "minnesota1.jpg",
+        "name": "TCF Bank Stadium",
+        "nickname": "N/A",
+        "location": "Minneapolis, Minnesota",
+        "capacity": "52,525"
+      }]
+    }, {
+      "id": 8,
+      "name": "Nebraska",
+      "stadium": [{
+        "imageFile": "nebraska1.jpg",
+        "name": "Memorial Stadium",
+        "nickname": "N/A",
+        "location": "Lincoln, Nebraska",
+        "capacity": "87,000"
+      }]
+    }, {
+      "id": 9,
+      "name": "Northwestern",
+      "stadium": [{
+        "imageFile": "northwestern1.jpg",
+        "name": "Ryan Field",
+        "nickname": "N/A",
+        "location": "Evanston, Illinois",
+        "capacity": "49,256"
+      }]
+    }, {
+      "id": 10,
+      "name": "Ohio State",
+      "stadium": [{
+        "imageFile": "ohiostate1.jpg",
+        "name": "Ohio Stadium",
+        "nickname": "N/A",
+        "location": "Columbus, Ohio",
+        "capacity": "104,944"
+      }]
+    }, {
+      "id": 11,
+      "name": "Penn State",
+      "stadium": [{
+        "imageFile": "pennstate1.jpg",
+        "name": "Beaver Stadium",
+        "nickname": "N/A",
+        "location": "University Park, Pennsylvania",
+        "capacity": "106,572"
+      }]
+    }, {
+      "id": 12,
+      "name": "Purdue",
+      "stadium": [{
+        "imageFile": "purdue1.jpg",
+        "name": "Ross-Ade Stadium",
+        "nickname": "N/A",
+        "location": "West Lafayette, Indiana",
+        "capacity": "57,236"
+      }]
+    }, {
+      "id": 13,
+      "name": "Rutgers",
+      "stadium": [{
+        "imageFile": "rutgers1.jpg",
+        "name": "High Point Solutions Stadium",
+        "nickname": "N/A",
+        "location": "Piscataway, New Jersey",
+        "capacity": "52,454"
+      }]
+    }, {
+      "id": 14,
+      "name": "Wisconsin",
+      "stadium": [{
+        "imageFile": "wisconsin1.jpg",
+        "name": "Camp Randall Stadium",
+        "nickname": "N/A",
+        "location": "Madison, Wisconsin",
+        "capacity": "80,321"
+      }]
+    }]
   },
 
 
 
 
-  { "id": 4,
+  {
+    "id": 4,
     "name": "Independents",
-    "schools": [
-      { "id": 1,
-        "name": "Army",
-        "stadium": [
-          { "imageFile": "army1.jpg", "name": "Michie Stadium", "nickname": "N/A", "location": "West Point, New York", "capacity": "40,000" },
-        ]
-      },
-      { "id": 2,
-        "name": "BYU",
-        "stadium": [
-          { "imageFile": "byu1.jpg", "name": "LaVell Edwards Stadium", "nickname": "N/A", "location": "Provo, Utah", "capacity": "63,725" }
-        ]
-      },
-      { "id": 3,
-        "name": "Notre Dame",
-        "stadium": [
-          { "imageFile": "notredame1.jpg", "name": "Notre Dame Stadium", "nickname": "N/A", "location": "South Bend, Indiana", "capacity": "80,795" }
-        ]
-      },
-    ]
+    "schools": [{
+      "id": 1,
+      "name": "Army",
+      "stadium": [{
+        "imageFile": "army1.jpg",
+        "name": "Michie Stadium",
+        "nickname": "N/A",
+        "location": "West Point, New York",
+        "capacity": "40,000"
+      }]
+    }, {
+      "id": 2,
+      "name": "BYU",
+      "stadium": [{
+        "imageFile": "byu1.jpg",
+        "name": "LaVell Edwards Stadium",
+        "nickname": "N/A",
+        "location": "Provo, Utah",
+        "capacity": "63,725"
+      }]
+    }, {
+      "id": 3,
+      "name": "Notre Dame",
+      "stadium": [{
+        "imageFile": "notredame1.jpg",
+        "name": "Notre Dame Stadium",
+        "nickname": "N/A",
+        "location": "South Bend, Indiana",
+        "capacity": "80,795"
+      }]
+    }]
   },
 
 
 
 
-  { "id": 5,
+  {
+    "id": 5,
     "name": "Pac 12 (Pacific 12 Conference)",
-    "schools": [
-      { "id": 1,
-        "name": "Arizona",
-        "stadium": [
-          { "imageFile": "arizona1.jpg", "name": "Arizona Stadium", "nickname": "N/A", "location": "Tucson, Arizona", "capacity": "57,400" },
-          ]
-        },
-      { "id": 2,
-        "name": "Arizona State",
-        "stadium": [
-          { "imageFile": "arizonastate1.jpg", "name": "Sun Devil Stadium", "nickname": "N/A", "location": "Tempe, Arizona", "capacity": "64,248" }
-        ]
-      },
-      { "id": 3,
-        "name": "California-Berkley",
-        "stadium": [
-          { "imageFile": "california1.jpg", "name": "Memorial Stadium", "nickname": "N/A", "location": "Berkley, California", "capacity": "63,000" }
-        ]
-      },
-      { "id": 4,
-        "name": "Colorado",
-        "stadium": [
-          { "imageFile": "colorado1.jpg", "name": "Folsom Field", "nickname": "N/A", "location": "Boulder, California", "capacity": "53,613" }
-        ]
-      },
-      { "id": 5,
-        "name": "Oregon",
-        "stadium": [
-          { "imageFile": "oregon1.jpg", "name": "Autzen Stadium", "nickname": "N/A", "location": "Eugene, Oregon", "capacity": "54,000" }
-        ]
-      },
-      { "id": 6,
-        "name": "Oregon State",
-        "stadium": [
-          { "imageFile": "oregonstate1.jpg", "name": "Reser Stadium", "nickname": "N/A", "location": "Corvallis, Oregon", "capacity": "45,674" }
-        ]
-      },
-      { "id": 7,
-        "name": "Stanford",
-        "stadium": [
-          { "imageFile": "stanford1.jpg", "name": "Stanford Stadium", "nickname": "N/A", "location": "Palo Alto, California", "capacity": "50,000" }
-        ]
-      },
-      { "id": 8,
-        "name": "UCLA",
-        "stadium": [
-          { "imageFile": "ucla1.jpg", "name": "Rose Bowl", "nickname": "N/A", "location": "Pasadena, California", "capacity": "92,542" }
-        ]
-      },
-      { "id": 9,
-        "name": "USC",
-        "stadium": [
-          { "imageFile": "usc1.jpg", "name": "Memorial Coliseum", "nickname": "N/A", "location": "Los Angeles, California", "capacity": "93,607" }
-        ]
-      },
-      { "id": 10,
-        "name": "Utah",
-        "stadium": [
-          { "imageFile": "utah1.jpg", "name": "Rice-Eccles Stadium", "nickname": "N/A", "location": "Salt Lake City, Utah", "capacity": "45,634" }
-        ]
-      },
-      { "id": 11,
-        "name": "Washington",
-        "stadium": [
-          { "imageFile": "washington1.jpg", "name": "Husky Stadium", "nickname": "N/A", "location": "Seattle, Washington", "capacity": "72,500" }
-        ]
-      },
-      { "id": 12,
-        "name": "Washington State",
-        "stadium": [
-          { "imageFile": "washingtonstate1.jpg", "name": "Martin Stadium", "nickname": "N/A", "location": "Pullman, Washington", "capacity": "35,117" }
-        ]
-      },
-    ]
+    "schools": [{
+      "id": 1,
+      "name": "Arizona",
+      "stadium": [{
+        "imageFile": "arizona1.jpg",
+        "name": "Arizona Stadium",
+        "nickname": "N/A",
+        "location": "Tucson, Arizona",
+        "capacity": "57,400"
+      }]
+    }, {
+      "id": 2,
+      "name": "Arizona State",
+      "stadium": [{
+        "imageFile": "arizonastate1.jpg",
+        "name": "Sun Devil Stadium",
+        "nickname": "N/A",
+        "location": "Tempe, Arizona",
+        "capacity": "64,248"
+      }]
+    }, {
+      "id": 3,
+      "name": "California-Berkley",
+      "stadium": [{
+        "imageFile": "california1.jpg",
+        "name": "Memorial Stadium",
+        "nickname": "N/A",
+        "location": "Berkley, California",
+        "capacity": "63,000"
+      }]
+    }, {
+      "id": 4,
+      "name": "Colorado",
+      "stadium": [{
+        "imageFile": "colorado1.jpg",
+        "name": "Folsom Field",
+        "nickname": "N/A",
+        "location": "Boulder, California",
+        "capacity": "53,613"
+      }]
+    }, {
+      "id": 5,
+      "name": "Oregon",
+      "stadium": [{
+        "imageFile": "oregon1.jpg",
+        "name": "Autzen Stadium",
+        "nickname": "N/A",
+        "location": "Eugene, Oregon",
+        "capacity": "54,000"
+      }]
+    }, {
+      "id": 6,
+      "name": "Oregon State",
+      "stadium": [{
+        "imageFile": "oregonstate1.jpg",
+        "name": "Reser Stadium",
+        "nickname": "N/A",
+        "location": "Corvallis, Oregon",
+        "capacity": "45,674"
+      }]
+    }, {
+      "id": 7,
+      "name": "Stanford",
+      "stadium": [{
+        "imageFile": "stanford1.jpg",
+        "name": "Stanford Stadium",
+        "nickname": "N/A",
+        "location": "Palo Alto, California",
+        "capacity": "50,000"
+      }]
+    }, {
+      "id": 8,
+      "name": "UCLA",
+      "stadium": [{
+        "imageFile": "ucla1.jpg",
+        "name": "Rose Bowl",
+        "nickname": "N/A",
+        "location": "Pasadena, California",
+        "capacity": "92,542"
+      }]
+    }, {
+      "id": 9,
+      "name": "USC",
+      "stadium": [{
+        "imageFile": "usc1.jpg",
+        "name": "Memorial Coliseum",
+        "nickname": "N/A",
+        "location": "Los Angeles, California",
+        "capacity": "93,607"
+      }]
+    }, {
+      "id": 10,
+      "name": "Utah",
+      "stadium": [{
+        "imageFile": "utah1.jpg",
+        "name": "Rice-Eccles Stadium",
+        "nickname": "N/A",
+        "location": "Salt Lake City, Utah",
+        "capacity": "45,634"
+      }]
+    }, {
+      "id": 11,
+      "name": "Washington",
+      "stadium": [{
+        "imageFile": "washington1.jpg",
+        "name": "Husky Stadium",
+        "nickname": "N/A",
+        "location": "Seattle, Washington",
+        "capacity": "72,500"
+      }]
+    }, {
+      "id": 12,
+      "name": "Washington State",
+      "stadium": [{
+        "imageFile": "washingtonstate1.jpg",
+        "name": "Martin Stadium",
+        "nickname": "N/A",
+        "location": "Pullman, Washington",
+        "capacity": "35,117"
+      }]
+    }]
   },
 
 
-  { "id": 6,
+  {
+    "id": 6,
     "name": "SEC (Southeastern Conference)",
-    "schools": [
-      { "id": 1,
-        "name": "Alabama",
-        "stadium": [
-          { "imageFile": "alabama1.jpg", "name": "Bryant Denny Stadium", "location": "Tuscaloosa, Alabama", "capacity": "101,821" }
-        ]
-      },
-      { "id": 2,
-        "name": "Arkansas",
-        "stadium": [
-          { "imageFile": "arkansas1.jpg", "name": "Donald W. Reynolds Razorback Stadium", "nickname": "N/A", "location": "Fayetteville, Arkansas", "capacity": "72,000" }
-        ]
-      },
-      { "id": 3,
-        "name": "Auburn",
-        "stadium": [
-          { "imageFile": "auburn1.jpg", "name": "Jordan-Hare Stadium", "nickname": "N/A", "location": "Auburn, Alabama", "capacity": "87,451" }
-        ]
-      },
-      { "id": 4,
-        "name": "Florida",
-        "stadium": [
-          { "imageFile": "florida1.jpg", "name": "Ben Griffin Stadium", "nickname": "The Swamp", "location": "Gainesville, Florida", "capacity": "88,548" }
-        ]
-      },
-      { "id": 5,
-        "name": "Georgia",
-        "stadium": [
-          { "imageFile": "georgia1.jpg", "name": "Sanford Stadium", "nickname": "N/A", "location": "Athens, Georgia", "capacity": "92,746" }
-        ]
-      },
-      { "id": 6,
-        "name": "Kentucky",
-        "stadium": [
-          { "imageFile": "kentucky1.jpg", "name": "Commonwealth Stadium", "nickname": "N/A", "location": "Lexington, Kentucky", "capacity": "61,000" }
-        ]
-      },
-      { "id": 7,
-        "name": "LSU",
-        "stadium": [
-          { "imageFile": "lsu1.jpg", "name": "Tiger Stadium", "nickname": "Death Valley", "location": "Baton Rouge, Louisiana", "capacity": "102,321" }
-        ]
-      },
-      { "id": 8,
-        "name": "Mississippi State",
-        "stadium": [
-          { "imageFile": "mississippistate1.jpg", "name": "Davis Wade Stadium", "nickname": "N/A", "location": "Starkville, Mississippi", "capacity": "61,337" }
-        ]
-      },
-      { "id": 9,
-        "name": "Missouri",
-        "stadium": [
-          { "imageFile": "missouri1.jpg", "name": "Memorial Stadium", "nickname": "N/A", "location": "Columbia, Missouri", "capacity": "71,168" }
-        ]
-      },
-      { "id": 10,
-        "name": "Ole Miss",
-        "stadium": [
-          { "imageFile": "olemiss1.jpg", "name": "Vaught–Hemingway Stadium", "nickname": "N/A", "location": "Oxford, Mississippi", "capacity": "64,038" }
-        ]
-      },
-      { "id": 11,
-        "name": "South Carolina",
-        "stadium": [
-          { "imageFile": "southcarolina1.jpg", "name": "Williams-Brice Stadium", "nickname": "N/A", "location": "Columbia, South Carolina", "capacity": "80,250" }
-        ]
-      },
-      { "id": 12,
-        "name": "Tennessee",
-        "stadium": [
-          { "imageFile": "tennessee1.jpg", "name": "Neyland Stadium", "nickname": "N/A", "location": "Knoxville, Tennessee", "capacity": "102,455" }
-        ]
-      },
-      { "id": 13,
-        "name": "Texas A&M",
-        "stadium": [
-          { "imageFile": "texasa&m2.jpg", "name": "Kyle Field", "nickname": "N/A", "location": "College Station, Texas", "capacity": "102,733" }
-        ]
-      },
-      { "id": 14,
-        "name": "Vanderbilt",
-        "stadium": [
-          { "imageFile": "vanderbilt1.jpg", "name": "Vanderbilt Stadium", "nickname": "N/A", "location": "Nashville, Tennessee", "capacity": "40,550" }
-        ]
-      }
-    ]
+    "schools": [{
+      "id": 1,
+      "name": "Alabama",
+      "stadium": [{
+        "imageFile": "alabama1.jpg",
+        "name": "Bryant Denny Stadium",
+        "location": "Tuscaloosa, Alabama",
+        "capacity": "101,821"
+      }]
+    }, {
+      "id": 2,
+      "name": "Arkansas",
+      "stadium": [{
+        "imageFile": "arkansas1.jpg",
+        "name": "Donald W. Reynolds Razorback Stadium",
+        "nickname": "N/A",
+        "location": "Fayetteville, Arkansas",
+        "capacity": "72,000"
+      }]
+    }, {
+      "id": 3,
+      "name": "Auburn",
+      "stadium": [{
+        "imageFile": "auburn1.jpg",
+        "name": "Jordan-Hare Stadium",
+        "nickname": "N/A",
+        "location": "Auburn, Alabama",
+        "capacity": "87,451"
+      }]
+    }, {
+      "id": 4,
+      "name": "Florida",
+      "stadium": [{
+        "imageFile": "florida1.jpg",
+        "name": "Ben Griffin Stadium",
+        "nickname": "The Swamp",
+        "location": "Gainesville, Florida",
+        "capacity": "88,548"
+      }]
+    }, {
+      "id": 5,
+      "name": "Georgia",
+      "stadium": [{
+        "imageFile": "georgia1.jpg",
+        "name": "Sanford Stadium",
+        "nickname": "N/A",
+        "location": "Athens, Georgia",
+        "capacity": "92,746"
+      }]
+    }, {
+      "id": 6,
+      "name": "Kentucky",
+      "stadium": [{
+        "imageFile": "kentucky1.jpg",
+        "name": "Commonwealth Stadium",
+        "nickname": "N/A",
+        "location": "Lexington, Kentucky",
+        "capacity": "61,000"
+      }]
+    }, {
+      "id": 7,
+      "name": "LSU",
+      "stadium": [{
+        "imageFile": "lsu1.jpg",
+        "name": "Tiger Stadium",
+        "nickname": "Death Valley",
+        "location": "Baton Rouge, Louisiana",
+        "capacity": "102,321"
+      }]
+    }, {
+      "id": 8,
+      "name": "Mississippi State",
+      "stadium": [{
+        "imageFile": "mississippistate1.jpg",
+        "name": "Davis Wade Stadium",
+        "nickname": "N/A",
+        "location": "Starkville, Mississippi",
+        "capacity": "61,337"
+      }]
+    }, {
+      "id": 9,
+      "name": "Missouri",
+      "stadium": [{
+        "imageFile": "missouri1.jpg",
+        "name": "Memorial Stadium",
+        "nickname": "N/A",
+        "location": "Columbia, Missouri",
+        "capacity": "71,168"
+      }]
+    }, {
+      "id": 10,
+      "name": "Ole Miss",
+      "stadium": [{
+        "imageFile": "olemiss1.jpg",
+        "name": "Vaught–Hemingway Stadium",
+        "nickname": "N/A",
+        "location": "Oxford, Mississippi",
+        "capacity": "64,038"
+      }]
+    }, {
+      "id": 11,
+      "name": "South Carolina",
+      "stadium": [{
+        "imageFile": "southcarolina1.jpg",
+        "name": "Williams-Brice Stadium",
+        "nickname": "N/A",
+        "location": "Columbia, South Carolina",
+        "capacity": "80,250"
+      }]
+    }, {
+      "id": 12,
+      "name": "Tennessee",
+      "stadium": [{
+        "imageFile": "tennessee1.jpg",
+        "name": "Neyland Stadium",
+        "nickname": "N/A",
+        "location": "Knoxville, Tennessee",
+        "capacity": "102,455"
+      }]
+    }, {
+      "id": 13,
+      "name": "Texas A&M",
+      "stadium": [{
+        "imageFile": "texasa&m2.jpg",
+        "name": "Kyle Field",
+        "nickname": "N/A",
+        "location": "College Station, Texas",
+        "capacity": "102,733"
+      }]
+    }, {
+      "id": 14,
+      "name": "Vanderbilt",
+      "stadium": [{
+        "imageFile": "vanderbilt1.jpg",
+        "name": "Vanderbilt Stadium",
+        "nickname": "N/A",
+        "location": "Nashville, Tennessee",
+        "capacity": "40,550"
+      }]
+    }]
   }
-];
-
+]
