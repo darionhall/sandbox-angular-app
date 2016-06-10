@@ -27,6 +27,12 @@ $icon-font-path: "../../bower_components/bootstrap-sass/assets/fonts/bootstrap/"
   }
 }
 
+body {
+  background: url("http://farm9.staticflickr.com/8283/7749023218_14917b4061_k.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0; }
+
 /**
  *  Do not remove the comments below. It's the markers used by gulp-inject to inject
  *  all your sass files automatically

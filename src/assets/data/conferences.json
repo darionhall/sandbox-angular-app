@@ -1,6 +1,6 @@
 [{
     "id": 1,
-    "name": "ACC (Atlantic Coast Conference)",
+    "name": "ACC",
     "schools": [{
       "id": 1,
       "name": "Boston College",
@@ -149,7 +149,7 @@
 
   {
     "id": 2,
-    "name": "Big 12 (Big 12 Conference)",
+    "name": "Big 12",
     "schools": [{
       "id": 1,
       "name": "Baylor",
@@ -259,7 +259,7 @@
 
   {
     "id": 3,
-    "name": "Big Ten (Big Ten Conference)",
+    "name": "Big Ten",
     "schools": [{
       "id": 1,
       "name": "Illinois",
@@ -447,7 +447,7 @@
 
   {
     "id": 5,
-    "name": "Pac 12 (Pacific 12 Conference)",
+    "name": "Pac 12",
     "schools": [{
       "id": 1,
       "name": "Arizona",
@@ -574,7 +574,7 @@
 
   {
     "id": 6,
-    "name": "SEC (Southeastern Conference)",
+    "name": "SEC",
     "schools": [{
       "id": 1,
       "name": "Alabama",
