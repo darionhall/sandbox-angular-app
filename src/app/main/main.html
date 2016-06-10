@@ -1,16 +1,17 @@
 <!-- <div class="container"> -->
-
 <div class="jumbotron text-center">
-  <h1>Welcome to Built For Saturdays!</h1>
-  <p class="lead">
-    <img src="assets/images/Stadiums/index.jpg" alt="I'm Yeoman"><br>
-    Take a look at the stadiums your favorite College Football teams call home.  </p>
-  <p class="animated infinite" ng-class="main.classAnimation">
-    <button type="button" class="btn btn-lg btn-success" ng-click="main.showToastr()">Splendid Toastr</button>
-  </p>
+  <h1>Built For Saturdays</h1>
   <p>
-    Who's your favorite school<acme-malarkey values="['Tennessee State', 'Auburn', 'Georgia Tech', 'Morehouse', 'Florida State', 'Alabama', 'Virginia Tech', 'Georgia', 'Florida', 'Duke', 'Miami', 'USC', 'Ohio State', 'Clemson','Tennessee State', 'Auburn', 'Georgia Tech', 'Morehouse', 'Florida State', 'Alabama', 'Virginia Tech', 'Georgia', 'Florida', 'Duke', 'Miami', 'USC', 'Ohio State', 'Clemson','Tennessee State', 'Auburn', 'Georgia Tech', 'Morehouse', 'Florida State', 'Alabama', 'Virginia Tech', 'Georgia', 'Florida', 'Duke', 'Miami', 'USC', 'Ohio State', 'Clemson','Tennessee State', 'Auburn', 'Georgia Tech', 'Morehouse', 'Florida State', 'Alabama', 'Virginia Tech', 'Georgia', 'Florida', 'Duke', 'Miami', 'USC', 'Ohio State', 'Clemson']"></acme-malarkey>
+    Where do you spend your College Football Saturdays?...<acme-malarkey extra-values="['Tennessee State', 'Auburn', 'Georgia Tech', 'Morehouse', 'Florida State', 'Alabama', 'Virginia Tech', 'Georgia', 'Florida', 'Duke', 'FAMU', 'Vanderbilt', 'Miami', 'USC', 'Ohio State', 'Clemson','Tennessee State', 'Auburn', 'Georgia Tech', 'Morehouse', 'Florida State', 'Alabama', 'Virginia Tech', 'Georgia', 'Florida', 'Duke', 'FAMU', 'Vanderbilt', 'Miami', 'USC', 'Ohio State', 'Clemson','Tennessee State', 'Auburn', 'Georgia Tech', 'Morehouse', 'Florida State', 'Alabama', 'Virginia Tech', 'Georgia', 'Florida', 'Duke', 'FAMU', 'Vanderbilt', 'Miami', 'USC', 'Ohio State', 'Clemson','Tennessee State', 'Auburn', 'Georgia Tech', 'Morehouse', 'Florida State', 'Alabama', 'Virginia Tech', 'Georgia', 'Florida', 'Duke', 'FAMU', 'Vanderbilt', 'Miami', 'USC', 'Ohio State', 'Clemson', 'Tennessee State', 'Auburn', 'Georgia Tech', 'Morehouse', 'Florida State', 'Alabama', 'Virginia Tech', 'Georgia', 'Florida', 'Duke', 'FAMU', 'Vanderbilt', 'Miami', 'USC', 'Ohio State', 'Clemson','Tennessee State', 'Auburn', 'Georgia Tech', 'Morehouse', 'Florida State', 'Alabama', 'Virginia Tech', 'Georgia', 'Florida', 'Duke', 'FAMU', 'Vanderbilt', 'Miami', 'USC', 'Ohio State', 'Clemson','Tennessee State', 'Auburn', 'Georgia Tech', 'Morehouse', 'Florida State', 'Alabama', 'Virginia Tech', 'Georgia', 'Florida', 'Duke', 'FAMU', 'Vanderbilt', 'Miami', 'USC', 'Ohio State', 'Clemson','Tennessee State', 'Auburn', 'Georgia Tech', 'Morehouse', 'Florida State', 'Alabama', 'Virginia Tech', 'Georgia', 'Florida', 'Duke', 'FAMU', 'Vanderbilt', 'Miami', 'USC', 'Ohio State', 'Clemson']"></acme-malarkey>
   </p>
+  <h2 class="lead">
+    <img src="assets/images/Stadiums/index.jpg" alt="I'm Darion"><br>
+    Your guide for College Football Stadiums.
+  </h2>
+  <p class="animated infinite" ng-class="main.classAnimation">
+    <button type="button" class="btn btn-lg btn-success" ng-class="{ active: $state.includes('conferences') }" ><a ui-sref="conferences">Browse Stadiums</a></button>
+  </p>
+
 </div>
 
 

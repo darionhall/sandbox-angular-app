@@ -35,7 +35,7 @@
     that.getSchoolById = function(schoolId) {
       var result;
       _.each(that.conferences, function(conference) {
-        var school = findschool(conference, schoolId);
+        var school = findSchool(conference, schoolId);
         if (school) {
           result = school;
         }
