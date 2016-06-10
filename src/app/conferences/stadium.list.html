@@ -1,6 +1,6 @@
-<div>
-  <div>
-    <h2> {{ stadium.imageFile }}</h2>
+<div class="row">
+  <div class="col-md-6 stadium-image">
+    <img class="middle" width=200px src="/assets/images/Stadiums/{{ stadium.imageFile }}" />
   </div>
   <div>
     <h2>{{ vm.school.name }}</h2>
@@ -16,6 +16,9 @@
   </div>
   <div>
     <h2> {{ stadium.capacity }}</h2>
+  </div>
+  <div class="col-md-6">
+    <div class="school" ui-view></div>
   </div>
 
 </div>

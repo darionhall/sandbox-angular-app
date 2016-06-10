@@ -35,7 +35,7 @@
       { "id": 6,
         "name": "Louisville",
         "stadium": [
-          { "imageFile": "louisville1.png", "name": "Papa John's Cardinal Stadium", "nickname": "N/A", "location": "Louisville", "capacity": "55,000" }
+          { "imageFile": "louisville1.jpg", "name": "Papa John's Cardinal Stadium", "nickname": "N/A", "location": "Louisville", "capacity": "55,000" }
         ]
       },
       { "id": 7,
@@ -385,7 +385,7 @@
       { "id": 4,
         "name": "Florida",
         "stadium": [
-          { "imageFile": "florida1.png", "name": "Ben Griffin Stadium", "nickname": "The Swamp", "location": "Gainesville, Florida", "capacity": "88,548" }
+          { "imageFile": "florida1.jpg", "name": "Ben Griffin Stadium", "nickname": "The Swamp", "location": "Gainesville, Florida", "capacity": "88,548" }
         ]
       },
       { "id": 5,
@@ -439,7 +439,7 @@
       { "id": 13,
         "name": "Texas A&M",
         "stadium": [
-          { "imageFile": "texasa&m1.jpg", "name": "Kyle Field", "nickname": "N/A", "location": "College Station, Texas", "capacity": "102,733" }
+          { "imageFile": "texasa&m2.jpg", "name": "Kyle Field", "nickname": "N/A", "location": "College Station, Texas", "capacity": "102,733" }
         ]
       },
       { "id": 14,
