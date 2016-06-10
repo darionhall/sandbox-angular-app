@@ -1,9 +1,14 @@
 <div class="row">
+  <div>
+    <h2>{{ vm.school.name }}</h2>
+  </div>
+
   <div class="col-md-6 stadium-image">
     <img class="middle" width=200px src="/assets/images/Stadiums/{{ stadium.imageFile }}" />
   </div>
+
   <div>
-    <h2>{{ vm.school.name }}</h2>
+    <h2> {{ stadium.imageFile }}</h2>
   </div>
   <div>
     <h2> {{ stadium.name }}</h2>
@@ -21,16 +26,3 @@
 </div>
 
 
-  <!-- <table>
-    <tr>
-      <th></th>
-      <th>Title</th>
-      <th>Length</th>
-      <th>Rating</th>
-    </tr>
-    <tr ng-repeat="stadium in vm.school.stadiums">
-      <td style="width: 30px;">{{ stadium.id }}</td>
-      <td style="width: 240px; text-align: left;">{{ stadium.title }}</td>
-      <td style="width: 40px;">{{ stadium.length }}</td>
-      <td style="width: 120px;">{{ stadium. }}</td>
-    </tr> -->

@@ -9,7 +9,7 @@
 
     ConferencesService.getConferences().success(function() {
       vm.conference = ConferencesService.getConferenceById($stateParams.conferenceId);
-      vm.school  = ConferencesService.getSchoolById($stateParams.schoolId);
+      vm.school = ConferencesService.getSchoolById($stateParams.schoolId);
     });
   });
 })();

@@ -2,7 +2,7 @@
     "id": 1,
     "name": "ACC",
     "schools": [{
-      "id": 1,
+      "id": 101,
       "name": "Boston College",
       "stadium": [{
         "imageFile": "bostoncollege1.jpg",
@@ -12,7 +12,7 @@
         "capacity": "44,500"
       }]
     }, {
-      "id": 2,
+      "id": 102,
       "name": "Clemson",
       "stadium": [{
         "imageFile": "clemson1.jpg",
@@ -22,7 +22,7 @@
         "capacity": "81,500"
       }]
     }, {
-      "id": 3,
+      "id": 103,
       "name": "Duke",
       "stadium": [{
         "imageFile": "duke1.jpg",
@@ -32,7 +32,7 @@
         "capacity": "40,000"
       }]
     }, {
-      "id": 4,
+      "id": 104,
       "name": "Florida State",
       "stadium": [{
         "imageFile": "floridastate1.jpg",
@@ -42,7 +42,7 @@
         "capacity": "82,300"
       }]
     }, {
-      "id": 5,
+      "id": 105,
       "name": "Georgia Tech",
       "stadium": [{
         "imageFile": "georgiatech1.jpg",
@@ -52,7 +52,7 @@
         "capacity": "55,000"
       }]
     }, {
-      "id": 6,
+      "id": 106,
       "name": "Louisville",
       "stadium": [{
         "imageFile": "louisville1.jpg",
@@ -62,7 +62,7 @@
         "capacity": "55,000"
       }]
     }, {
-      "id": 7,
+      "id": 107,
       "name": "Miami (FL)",
       "stadium": [{
         "imageFile": "miami1.png",
@@ -72,7 +72,7 @@
         "capacity": "76,100"
       }]
     }, {
-      "id": 8,
+      "id": 108,
       "name": "North Carolina",
       "stadium": [{
         "imageFile": "northcarolina1.jpg",
@@ -82,7 +82,7 @@
         "capacity": "63,980"
       }]
     }, {
-      "id": 9,
+      "id": 109,
       "name": "North Carolina State",
       "stadium": [{
         "imageFile": "ncstate1.jpg",
@@ -92,7 +92,7 @@
         "capacity": "57,583"
       }]
     }, {
-      "id": 10,
+      "id": 110,
       "name": "Pittsburgh",
       "stadium": [{
         "imageFile": "pittsburgh1.jpg",
@@ -102,7 +102,7 @@
         "capacity": "65,050"
       }]
     }, {
-      "id": 11,
+      "id": 111,
       "name": "Syracuse",
       "stadium": [{
         "imageFile": "syracuse1.jpg",
@@ -112,7 +112,7 @@
         "capacity": "49,250"
       }]
     }, {
-      "id": 12,
+      "id": 112,
       "name": "Virginia",
       "stadium": [{
         "imageFile": "virginia1.jpg",
@@ -122,7 +122,7 @@
         "capacity": "61,500"
       }]
     }, {
-      "id": 13,
+      "id": 113,
       "name": "Virginia Tech",
       "stadium": [{
         "imageFile": "virginiatech1.jpg",
@@ -132,7 +132,7 @@
         "capacity": "66,233"
       }]
     }, {
-      "id": 14,
+      "id": 114,
       "name": "Wake Forest",
       "stadium": [{
         "imageFile": "wakeforest1.jpg",
@@ -151,7 +151,7 @@
     "id": 2,
     "name": "Big 12",
     "schools": [{
-      "id": 1,
+      "id": 201,
       "name": "Baylor",
       "stadium": [{
         "imageFile": "baylor1.jpg",
@@ -161,7 +161,7 @@
         "capacity": "45,140"
       }]
     }, {
-      "id": 2,
+      "id": 202,
       "name": "Iowa State",
       "stadium": [{
         "imageFile": "iowastate1.jpg",
@@ -171,7 +171,7 @@
         "capacity": "61,500"
       }]
     }, {
-      "id": 3,
+      "id": 203,
       "name": "Kansas",
       "stadium": [{
         "imageFile": "kansas1.jpg",
@@ -181,7 +181,7 @@
         "capacity": "50,071"
       }]
     }, {
-      "id": 4,
+      "id": 204,
       "name": "Kansas State",
       "stadium": [{
         "imageFile": "kansasstate1.jpg",
@@ -191,7 +191,7 @@
         "capacity": "53,000"
       }]
     }, {
-      "id": 5,
+      "id": 205,
       "name": "Oklahoma",
       "stadium": [{
         "imageFile": "oklahoma1.jpg",
@@ -201,7 +201,7 @@
         "capacity": "82,112"
       }]
     }, {
-      "id": 6,
+      "id": 206,
       "name": "Oklahoma State",
       "stadium": [{
         "imageFile": "oklahomastate1.jpg",
@@ -211,7 +211,7 @@
         "capacity": "60,000"
       }]
     }, {
-      "id": 7,
+      "id": 207,
       "name": "TCU",
       "stadium": [{
         "imageFile": "tcu1.jpg",
@@ -221,7 +221,7 @@
         "capacity": "50,000"
       }]
     }, {
-      "id": 8,
+      "id": 208,
       "name": "Texas",
       "stadium": [{
         "imageFile": "texas1.jpg",
@@ -231,7 +231,7 @@
         "capacity": "100,119"
       }]
     }, {
-      "id": 9,
+      "id": 209,
       "name": "Texas Tech",
       "stadium": [{
         "imageFile": "texastech1.jpg",
@@ -241,7 +241,7 @@
         "capacity": "60,454"
       }]
     }, {
-      "id": 10,
+      "id": 210,
       "name": "West Virginia",
       "stadium": [{
         "imageFile": "westvirginia1.jpg",
@@ -261,7 +261,7 @@
     "id": 3,
     "name": "Big Ten",
     "schools": [{
-      "id": 1,
+      "id": 301,
       "name": "Illinois",
       "stadium": [{
         "imageFile": "illinois1.jpg",
@@ -271,7 +271,7 @@
         "capacity": "60,670"
       }]
     }, {
-      "id": 2,
+      "id": 302,
       "name": "Indiana",
       "stadium": [{
         "imageFile": "indiana1.jpg",
@@ -281,7 +281,7 @@
         "capacity": "52,929"
       }]
     }, {
-      "id": 3,
+      "id": 303,
       "name": "Iowa",
       "stadium": [{
         "imageFile": "iowa1.jpg",
@@ -291,7 +291,7 @@
         "capacity": "70,585"
       }]
     }, {
-      "id": 4,
+      "id": 304,
       "name": "Maryland",
       "stadium": [{
         "imageFile": "maryland1.png",
@@ -301,7 +301,7 @@
         "capacity": "51,802"
       }]
     }, {
-      "id": 5,
+      "id": 305,
       "name": "Michigan",
       "stadium": [{
         "imageFile": "michigan1.jpg",
@@ -311,7 +311,7 @@
         "capacity": "107,601"
       }]
     }, {
-      "id": 6,
+      "id": 306,
       "name": "Michigan State",
       "stadium": [{
         "imageFile": "michiganstate1.jpg",
@@ -321,7 +321,7 @@
         "capacity": "75,005"
       }]
     }, {
-      "id": 7,
+      "id": 307,
       "name": "Minnesota",
       "stadium": [{
         "imageFile": "minnesota1.jpg",
@@ -331,7 +331,7 @@
         "capacity": "52,525"
       }]
     }, {
-      "id": 8,
+      "id": 308,
       "name": "Nebraska",
       "stadium": [{
         "imageFile": "nebraska1.jpg",
@@ -341,7 +341,7 @@
         "capacity": "87,000"
       }]
     }, {
-      "id": 9,
+      "id": 309,
       "name": "Northwestern",
       "stadium": [{
         "imageFile": "northwestern1.jpg",
@@ -351,7 +351,7 @@
         "capacity": "49,256"
       }]
     }, {
-      "id": 10,
+      "id": 310,
       "name": "Ohio State",
       "stadium": [{
         "imageFile": "ohiostate1.jpg",
@@ -361,7 +361,7 @@
         "capacity": "104,944"
       }]
     }, {
-      "id": 11,
+      "id": 311,
       "name": "Penn State",
       "stadium": [{
         "imageFile": "pennstate1.jpg",
@@ -371,7 +371,7 @@
         "capacity": "106,572"
       }]
     }, {
-      "id": 12,
+      "id": 312,
       "name": "Purdue",
       "stadium": [{
         "imageFile": "purdue1.jpg",
@@ -381,7 +381,7 @@
         "capacity": "57,236"
       }]
     }, {
-      "id": 13,
+      "id": 313,
       "name": "Rutgers",
       "stadium": [{
         "imageFile": "rutgers1.jpg",
@@ -391,7 +391,7 @@
         "capacity": "52,454"
       }]
     }, {
-      "id": 14,
+      "id": 314,
       "name": "Wisconsin",
       "stadium": [{
         "imageFile": "wisconsin1.jpg",
@@ -410,7 +410,7 @@
     "id": 4,
     "name": "Independents",
     "schools": [{
-      "id": 1,
+      "id": 401,
       "name": "Army",
       "stadium": [{
         "imageFile": "army1.jpg",
@@ -420,7 +420,7 @@
         "capacity": "40,000"
       }]
     }, {
-      "id": 2,
+      "id": 402,
       "name": "BYU",
       "stadium": [{
         "imageFile": "byu1.jpg",
@@ -430,7 +430,7 @@
         "capacity": "63,725"
       }]
     }, {
-      "id": 3,
+      "id": 403,
       "name": "Notre Dame",
       "stadium": [{
         "imageFile": "notredame1.jpg",
@@ -449,7 +449,7 @@
     "id": 5,
     "name": "Pac 12",
     "schools": [{
-      "id": 1,
+      "id": 501,
       "name": "Arizona",
       "stadium": [{
         "imageFile": "arizona1.jpg",
@@ -459,7 +459,7 @@
         "capacity": "57,400"
       }]
     }, {
-      "id": 2,
+      "id": 502,
       "name": "Arizona State",
       "stadium": [{
         "imageFile": "arizonastate1.jpg",
@@ -469,7 +469,7 @@
         "capacity": "64,248"
       }]
     }, {
-      "id": 3,
+      "id": 503,
       "name": "California-Berkley",
       "stadium": [{
         "imageFile": "california1.jpg",
@@ -479,7 +479,7 @@
         "capacity": "63,000"
       }]
     }, {
-      "id": 4,
+      "id": 504,
       "name": "Colorado",
       "stadium": [{
         "imageFile": "colorado1.jpg",
@@ -489,7 +489,7 @@
         "capacity": "53,613"
       }]
     }, {
-      "id": 5,
+      "id": 505,
       "name": "Oregon",
       "stadium": [{
         "imageFile": "oregon1.jpg",
@@ -499,7 +499,7 @@
         "capacity": "54,000"
       }]
     }, {
-      "id": 6,
+      "id": 506,
       "name": "Oregon State",
       "stadium": [{
         "imageFile": "oregonstate1.jpg",
@@ -509,7 +509,7 @@
         "capacity": "45,674"
       }]
     }, {
-      "id": 7,
+      "id": 507,
       "name": "Stanford",
       "stadium": [{
         "imageFile": "stanford1.jpg",
@@ -519,7 +519,7 @@
         "capacity": "50,000"
       }]
     }, {
-      "id": 8,
+      "id": 508,
       "name": "UCLA",
       "stadium": [{
         "imageFile": "ucla1.jpg",
@@ -529,7 +529,7 @@
         "capacity": "92,542"
       }]
     }, {
-      "id": 9,
+      "id": 509,
       "name": "USC",
       "stadium": [{
         "imageFile": "usc1.jpg",
@@ -539,7 +539,7 @@
         "capacity": "93,607"
       }]
     }, {
-      "id": 10,
+      "id": 510,
       "name": "Utah",
       "stadium": [{
         "imageFile": "utah1.jpg",
@@ -549,7 +549,7 @@
         "capacity": "45,634"
       }]
     }, {
-      "id": 11,
+      "id": 511,
       "name": "Washington",
       "stadium": [{
         "imageFile": "washington1.jpg",
@@ -559,7 +559,7 @@
         "capacity": "72,500"
       }]
     }, {
-      "id": 12,
+      "id": 512,
       "name": "Washington State",
       "stadium": [{
         "imageFile": "washingtonstate1.jpg",
@@ -576,7 +576,7 @@
     "id": 6,
     "name": "SEC",
     "schools": [{
-      "id": 1,
+      "id": 401,
       "name": "Alabama",
       "stadium": [{
         "imageFile": "alabama1.jpg",
@@ -585,7 +585,7 @@
         "capacity": "101,821"
       }]
     }, {
-      "id": 2,
+      "id": 402,
       "name": "Arkansas",
       "stadium": [{
         "imageFile": "arkansas1.jpg",
@@ -595,7 +595,7 @@
         "capacity": "72,000"
       }]
     }, {
-      "id": 3,
+      "id": 403,
       "name": "Auburn",
       "stadium": [{
         "imageFile": "auburn1.jpg",
@@ -605,7 +605,7 @@
         "capacity": "87,451"
       }]
     }, {
-      "id": 4,
+      "id": 404,
       "name": "Florida",
       "stadium": [{
         "imageFile": "florida1.jpg",
@@ -615,7 +615,7 @@
         "capacity": "88,548"
       }]
     }, {
-      "id": 5,
+      "id": 405,
       "name": "Georgia",
       "stadium": [{
         "imageFile": "georgia1.jpg",
@@ -625,7 +625,7 @@
         "capacity": "92,746"
       }]
     }, {
-      "id": 6,
+      "id": 406,
       "name": "Kentucky",
       "stadium": [{
         "imageFile": "kentucky1.jpg",
@@ -635,7 +635,7 @@
         "capacity": "61,000"
       }]
     }, {
-      "id": 7,
+      "id": 407,
       "name": "LSU",
       "stadium": [{
         "imageFile": "lsu1.jpg",
@@ -645,7 +645,7 @@
         "capacity": "102,321"
       }]
     }, {
-      "id": 8,
+      "id": 408,
       "name": "Mississippi State",
       "stadium": [{
         "imageFile": "mississippistate1.jpg",
@@ -655,7 +655,7 @@
         "capacity": "61,337"
       }]
     }, {
-      "id": 9,
+      "id": 409,
       "name": "Missouri",
       "stadium": [{
         "imageFile": "missouri1.jpg",
@@ -665,7 +665,7 @@
         "capacity": "71,168"
       }]
     }, {
-      "id": 10,
+      "id": 410,
       "name": "Ole Miss",
       "stadium": [{
         "imageFile": "olemiss1.jpg",
@@ -675,7 +675,7 @@
         "capacity": "64,038"
       }]
     }, {
-      "id": 11,
+      "id": 411,
       "name": "South Carolina",
       "stadium": [{
         "imageFile": "southcarolina1.jpg",
@@ -685,7 +685,7 @@
         "capacity": "80,250"
       }]
     }, {
-      "id": 12,
+      "id": 412,
       "name": "Tennessee",
       "stadium": [{
         "imageFile": "tennessee1.jpg",
@@ -695,7 +695,7 @@
         "capacity": "102,455"
       }]
     }, {
-      "id": 13,
+      "id": 413,
       "name": "Texas A&M",
       "stadium": [{
         "imageFile": "texasa&m2.jpg",
@@ -705,7 +705,7 @@
         "capacity": "102,733"
       }]
     }, {
-      "id": 14,
+      "id": 414,
       "name": "Vanderbilt",
       "stadium": [{
         "imageFile": "vanderbilt1.jpg",
