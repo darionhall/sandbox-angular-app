@@ -15,7 +15,7 @@
         controllerAs: 'main'
       });
 
-    $urlRouterProvider.otherwise('main');
+    $urlRouterProvider.otherwise('/');
   }
 
 })();

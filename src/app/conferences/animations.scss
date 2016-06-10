@@ -1,0 +1,23 @@
+@import 'mixins';
+
+$conference-animation-duration: 0.5s;
+.conference {
+  @include animation(fadeInDown,  $conference-animation-duration,
+                     fadeOutDown, $conference-animation-duration);
+}
+
+$school-animation-duration: 0.5s;
+.school {
+  @include animation(fadeInDown,  $school-animation-duration,
+                     fadeOutDown, $school-animation-duration);
+}
+
+.ui-view-container {
+  position: relative;
+}
+
+$animation-duration: 1.0s;
+.main-view {
+  @include animation(bounceInRight,  $animation-duration,
+                     bounceOutDown, $animation-duration);
+}

@@ -1,0 +1,11 @@
+<div class="row">
+  <div class="col-md-4">
+    <h1>{{ vm.conference.name }}</h1>
+    <ul>
+      <li ng-repeat="school in vm.conference.schools"> <a ng-click="vm.goSchool(school)">{{ school.name }}</a></li>
+    </ul>
+  </div>
+  <div class="col-md-8">
+    <div class="school" ui-view></div>
+  </div>
+</div>
