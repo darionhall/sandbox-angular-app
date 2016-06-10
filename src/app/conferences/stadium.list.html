@@ -3,16 +3,18 @@
     <h2>{{ vm.school.name }}</h2>
   </div>
 
-  <div class="col-md-6 stadium-image">
+  <div class="stadium-image">
     <img class="middle" width=200px src="/assets/images/Stadiums/{{ vm.school.stadium[0].imageFile }}" />
   </div>
 
-  <section style="color: white">
-      <h4> Name: {{ vm.school.stadium[0].name }}</h4>
-      <h4> Nickname: {{ vm.school.stadium[0].nickname }}</h4>
-      <h4> Location: {{ vm.school.stadium[0].location }}</h4>
-      <h4> Capacity: {{ vm.school.stadium[0].capacity }}</h4>
-  </section>
+  <div>
+    <section style="color: white">
+        <h4> Name: {{ vm.school.stadium[0].name }}</h4>
+        <h4> Nickname: {{ vm.school.stadium[0].nickname }}</h4>
+        <h4> Location: {{ vm.school.stadium[0].location }}</h4>
+        <h4> Capacity: {{ vm.school.stadium[0].capacity }}</h4>
+    </section>
+  </div>
 </div>
 
 
