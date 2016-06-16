@@ -12,7 +12,7 @@
     });
 
     vm.goSchool = function(school) {
-      console.log('going to school:', school);
+      // console.log('going to school:', school);
       $state.go( 'conferences.schools.stadiums', { schoolId : school.id } );
     };
   });
