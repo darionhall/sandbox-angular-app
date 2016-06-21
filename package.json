@@ -1,6 +1,7 @@
 {
   "name": "stadiumTest",
   "version": "0.0.0",
+  "main": "server.js",
   "dependencies": {
     "gulp": "~3.9.0",
     "gulp-autoprefixer": "~3.0.2",
